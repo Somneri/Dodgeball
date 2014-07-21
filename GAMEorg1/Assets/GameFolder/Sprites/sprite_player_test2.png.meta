@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 9cd2e6ebd10e82348a3cd39fa5e52384
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: sprite_player_test2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 700
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 702
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 700
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 699
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_4
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 670
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 671
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 683
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 691
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 602
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 597
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 606
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 606
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 606
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 524
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 525
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_15
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 517
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 520
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_17
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 526
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_18
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 516
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_19
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 527
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 522
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_21
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 568
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 434
+        width: 63
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_23
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 510
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 452
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_25
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 449
+        width: 57
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 413
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 490
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 490
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 491
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_30
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 430
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_31
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 436
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_32
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 420
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_33
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 423
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_34
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 428
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 345
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 343
+        width: 75
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_37
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 341
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 343
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_39
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 344
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_40
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 325
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 275
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 277
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 277
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_44
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 274
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_45
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 271
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_46
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 272
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 215
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_48
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 213
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_49
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 210
+        width: 27
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_50
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 212
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_51
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 211
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_52
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 219
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_53
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 220
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 177
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_55
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 174
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_56
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 180
+        width: 34
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_57
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_58
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 233
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_59
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_60
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 129
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_62
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 129
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 138
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_64
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 124
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_65
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 110
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_66
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 112
+        width: 30
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_67
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_68
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 15
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_69
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 38
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 42
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_71
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 41
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: sprite_player_test2_72
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 26
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
